@@ -7,3 +7,6 @@
 
 ## 运行代码
 在git clone获取三份cpp文件(solution,data,make)后，首先编译solution.cpp和data.cpp，然后编译运行make.cpp，打开solution.txt后就可以查阅抽点名单以及E值
+
+## E值计算方法
+E = 有效点名次数/总点名次数
